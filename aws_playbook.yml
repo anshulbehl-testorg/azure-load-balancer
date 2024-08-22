@@ -1,5 +1,5 @@
 ---
-- name: Example playbook
+- name: AWS Infrastructure Management
   hosts: localhost
   roles:
     - role: azure.load_balancer.run
